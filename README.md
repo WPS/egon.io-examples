@@ -25,7 +25,7 @@ These are the examples used in the [Domain Storytelling book](https://leanpub.co
 
 ## Import and replay the examples
 
-1. First download the '.dst' or '.dst.svg' files from the example folders.
+1. First download the '.dst' or '.dst.svg' files from the example folders. **If you download files directly from the Github webpage, make sure to download the raw files!**
 2. In Egon.io, click the *upload* button ![Upload Button](/unarchive.png) to upload one of the domain stories.
 3. The replay feature helps you to re-tell a Domain Story sentence by sentence. When you start a replay with the *play* button ![Play Button](/play.png), all activities except the first one disappear. 
 4. Clicking the *forward* button ![Forward Button](/forward.png) shows the next activity and clicking the *previous* button ![Previous Button](/previous.png) shows the previous one. Editing is disabled in replay mode, but you can zoom (mouse wheel up and down) and scroll (ctrl + mouse wheel up and down). 
