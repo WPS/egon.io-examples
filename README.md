@@ -5,9 +5,7 @@ The examples in this repository show how Domain Stories can be modeled with Egon
 Domain Storytelling is a collaborative, visual, and agile way to build domain-driven software. Read more about this modeling technique on [domainstorytelling.org](https://domainstorytelling.org/).
 
 ## About Egon.io
-Egon.io is an open-source tool for visualizing domain stories that runs in your browser. It is maintained by WPS—Workplace Solutions GmbH on [GitHub](https://github.com/WPS/domain-story-modeler).
-
-You can [try Egon.io online](http://egon.io) or download the latest release from [GitHub](https://github.com/WPS/domain-story-modeler/releases) (extract the zip file and open index.html in your browser). We recommend Google Chrome or Mozilla Firefox as browser.
+Egon.io is an open-source tool for visualizing domain stories that runs in your browser. [Try Egon.io online](http://egon.io).
 
 ## About the examples
 
