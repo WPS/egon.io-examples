@@ -28,19 +28,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 603,
-            "y": 338
+            "x": 678,
+            "y": 388
           },
-          "x": 603,
-          "y": 338
+          "x": 678,
+          "y": 388
         },
         {
           "original": {
-            "x": 644,
-            "y": 338
+            "x": 719,
+            "y": 388
           },
-          "x": 644,
-          "y": 338
+          "x": 719,
+          "y": 388
         }
       ],
       "source": "shape_8945",
@@ -50,154 +50,33 @@
       "$descriptor": {}
     },
     {
-      "type": "domainStory:workObjectReceipt",
-      "name": "Karte",
-      "id": "shape_7937",
-      "x": 217,
-      "y": 267,
-      "pickedColor": "black",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:workObjectTheater",
-      "name": "Film",
-      "id": "shape_2080",
-      "pickedColor": "black",
-      "x": 170,
-      "y": 620,
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:workObjectTheater",
-      "name": "Film",
-      "id": "shape_5742",
-      "x": 260,
-      "y": 620,
+      "type": "domainStory:actorPerson",
+      "name": "Filmvorführer",
+      "id": "shape_7670",
+      "x": 330,
+      "y": 870,
       "pickedColor": "#ff0f0fff",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:textAnnotation",
-      "name": "",
-      "id": "shape_7862",
-      "x": 645,
-      "y": 323,
-      "text": "optional",
-      "number": 30,
-      "width": 60,
-      "height": 30,
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:workObjectsnacks-custom",
-      "name": "Snacks und Getränke",
-      "id": "shape_8945",
-      "x": 523,
-      "y": 290,
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:workObjectReceipt",
-      "name": "Karte",
-      "id": "shape_0649",
-      "x": 554,
-      "y": 607,
-      "pickedColor": "black",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:workObjectReceipt",
-      "name": "Karte",
-      "id": "shape_3084",
-      "x": 647,
-      "y": 533,
-      "pickedColor": "black",
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:textAnnotation",
-      "name": "",
-      "id": "shape_3800",
-      "x": 920,
-      "y": 640,
-      "text": "berücksichtigt die Brandschutzregeln",
-      "number": 30,
-      "width": 126.1953125,
-      "height": 30,
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:textAnnotation",
-      "name": "",
-      "id": "shape_4371",
-      "x": 920,
-      "y": 582,
-      "text": "unterliegt Bestimmungen zur Lebensmittelsicherheit",
-      "number": 30,
-      "width": 151.96875,
-      "height": 30,
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:textAnnotation",
-      "name": "",
-      "id": "shape_7380",
-      "x": 866,
-      "y": 536,
-      "text": "Rechtliche Auflagen:",
-      "number": 30,
-      "width": 137,
-      "height": 30,
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:workObjectInfo",
-      "name": "",
-      "id": "shape_3756",
-      "pickedColor": "#ff0f0fff",
-      "x": 848,
-      "y": 622,
-      "$type": "Element",
-      "di": {},
-      "$descriptor": {}
-    },
-    {
-      "type": "domainStory:workObjectInfo",
-      "name": "",
-      "id": "shape_5916",
-      "pickedColor": "#0f0fffff",
-      "x": 848,
-      "y": 563,
       "$type": "Element",
       "di": {},
       "$descriptor": {}
     },
     {
       "type": "domainStory:actorPerson",
-      "name": "Einlasser",
-      "id": "shape_9250",
-      "x": 568,
-      "y": 820,
+      "name": "Kinobesucher",
+      "id": "shape_6549",
+      "x": 388,
+      "y": 474,
+      "pickedColor": "black",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {}
+    },
+    {
+      "type": "domainStory:actorPerson",
+      "name": "Kassierer",
+      "id": "shape_9942",
+      "x": 292,
+      "y": 150,
       "pickedColor": "black",
       "$type": "Element",
       "di": {},
@@ -207,8 +86,8 @@
       "type": "domainStory:actorPerson",
       "name": "Snackverkäufer",
       "id": "shape_4967",
-      "x": 523,
-      "y": 100,
+      "x": 598,
+      "y": 150,
       "pickedColor": "#0f0fffff",
       "$type": "Element",
       "di": {},
@@ -216,33 +95,157 @@
     },
     {
       "type": "domainStory:actorPerson",
-      "name": "Kassierer",
-      "id": "shape_9942",
-      "x": 217,
-      "y": 100,
+      "name": "Einlasser",
+      "id": "shape_9250",
+      "x": 643,
+      "y": 870,
       "pickedColor": "black",
       "$type": "Element",
       "di": {},
       "$descriptor": {}
     },
     {
-      "type": "domainStory:actorPerson",
-      "name": "Kinobesucher",
-      "id": "shape_6549",
-      "x": 313,
-      "y": 424,
-      "pickedColor": "black",
+      "type": "domainStory:workObjectInfo",
+      "name": "",
+      "id": "shape_5916",
+      "pickedColor": "#0f0fffff",
+      "x": 923,
+      "y": 613,
       "$type": "Element",
       "di": {},
       "$descriptor": {}
     },
     {
-      "type": "domainStory:actorPerson",
-      "name": "Filmvorführer",
-      "id": "shape_7670",
-      "x": 255,
-      "y": 820,
+      "type": "domainStory:workObjectInfo",
+      "name": "",
+      "id": "shape_3756",
       "pickedColor": "#ff0f0fff",
+      "x": 923,
+      "y": 672,
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {}
+    },
+    {
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "id": "shape_7380",
+      "x": 941,
+      "y": 586,
+      "text": "Rechtliche Auflagen:",
+      "number": 30,
+      "width": 137,
+      "height": 30,
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {}
+    },
+    {
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "id": "shape_4371",
+      "x": 995,
+      "y": 632,
+      "text": "unterliegt Bestimmungen zur Lebensmittelsicherheit",
+      "number": 30,
+      "width": 151.96875,
+      "height": 30,
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "#0f0fff"
+    },
+    {
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "id": "shape_3800",
+      "x": 995,
+      "y": 690,
+      "text": "berücksichtigt die Brandschutzregeln",
+      "number": 30,
+      "width": 126.1953125,
+      "height": 30,
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "#ff0f0f"
+    },
+    {
+      "type": "domainStory:workObjectReceipt",
+      "name": "Karte",
+      "id": "shape_3084",
+      "x": 722,
+      "y": 583,
+      "pickedColor": "black",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {}
+    },
+    {
+      "type": "domainStory:workObjectReceipt",
+      "name": "Karte",
+      "id": "shape_0649",
+      "x": 629,
+      "y": 657,
+      "pickedColor": "black",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {}
+    },
+    {
+      "type": "domainStory:workObjectsnacks-custom",
+      "name": "Snacks und Getränke",
+      "id": "shape_8945",
+      "x": 598,
+      "y": 340,
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {},
+      "pickedColor": "#0f0fff"
+    },
+    {
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "id": "shape_7862",
+      "x": 720,
+      "y": 373,
+      "text": "optional",
+      "number": 30,
+      "width": 60,
+      "height": 30,
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {}
+    },
+    {
+      "type": "domainStory:workObjectTheater",
+      "name": "Film",
+      "id": "shape_5742",
+      "x": 335,
+      "y": 670,
+      "pickedColor": "#ff0f0fff",
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {}
+    },
+    {
+      "type": "domainStory:workObjectTheater",
+      "name": "Film",
+      "id": "shape_2080",
+      "pickedColor": "black",
+      "x": 245,
+      "y": 670,
+      "$type": "Element",
+      "di": {},
+      "$descriptor": {}
+    },
+    {
+      "type": "domainStory:workObjectReceipt",
+      "name": "Karte",
+      "id": "shape_7937",
+      "x": 292,
+      "y": 317,
+      "pickedColor": "black",
       "$type": "Element",
       "di": {},
       "$descriptor": {}
@@ -255,19 +258,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 340,
-            "y": 424
+            "x": 415,
+            "y": 474
           },
-          "x": 340,
-          "y": 424
+          "x": 415,
+          "y": 474
         },
         {
           "original": {
-            "x": 276,
-            "y": 349
+            "x": 351,
+            "y": 399
           },
-          "x": 276,
-          "y": 349
+          "x": 351,
+          "y": 399
         }
       ],
       "source": "shape_6549",
@@ -285,19 +288,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 255,
-            "y": 267
+            "x": 330,
+            "y": 317
           },
-          "x": 255,
-          "y": 267
+          "x": 330,
+          "y": 317
         },
         {
           "original": {
-            "x": 255,
-            "y": 185
+            "x": 330,
+            "y": 235
           },
-          "x": 255,
-          "y": 185
+          "x": 330,
+          "y": 235
         }
       ],
       "source": "shape_7937",
@@ -315,23 +318,23 @@
       "waypoints": [
         {
           "original": {
-            "x": 390,
-            "y": 475
+            "x": 465,
+            "y": 525
           },
-          "x": 390,
-          "y": 475
+          "x": 465,
+          "y": 525
         },
         {
-          "x": 475,
-          "y": 559
+          "x": 550,
+          "y": 609
         },
         {
           "original": {
-            "x": 647,
-            "y": 559
+            "x": 722,
+            "y": 609
           },
-          "x": 647,
-          "y": 559
+          "x": 722,
+          "y": 609
         }
       ],
       "source": "shape_6549",
@@ -349,23 +352,23 @@
       "waypoints": [
         {
           "original": {
-            "x": 685,
-            "y": 618
+            "x": 760,
+            "y": 668
           },
-          "x": 685,
-          "y": 618
+          "x": 760,
+          "y": 668
         },
         {
-          "x": 685,
-          "y": 838
+          "x": 760,
+          "y": 888
         },
         {
           "original": {
-            "x": 645,
-            "y": 838
+            "x": 720,
+            "y": 888
           },
-          "x": 645,
-          "y": 838
+          "x": 720,
+          "y": 888
         }
       ],
       "source": "shape_3084",
@@ -383,19 +386,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 592,
-            "y": 820
+            "x": 667,
+            "y": 870
           },
-          "x": 592,
-          "y": 820
+          "x": 667,
+          "y": 870
         },
         {
           "original": {
-            "x": 592,
-            "y": 692
+            "x": 667,
+            "y": 742
           },
-          "x": 592,
-          "y": 692
+          "x": 667,
+          "y": 742
         }
       ],
       "source": "shape_9250",
@@ -413,19 +416,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 298,
-            "y": 821
+            "x": 373,
+            "y": 871
           },
-          "x": 298,
-          "y": 821
+          "x": 373,
+          "y": 871
         },
         {
           "original": {
-            "x": 298,
-            "y": 705
+            "x": 373,
+            "y": 755
           },
-          "x": 298,
-          "y": 705
+          "x": 373,
+          "y": 755
         }
       ],
       "source": "shape_7670",
@@ -443,23 +446,23 @@
       "waypoints": [
         {
           "original": {
-            "x": 313,
-            "y": 503
+            "x": 388,
+            "y": 553
           },
-          "x": 313,
-          "y": 503
+          "x": 388,
+          "y": 553
         },
         {
-          "x": 208,
-          "y": 560
+          "x": 283,
+          "y": 610
         },
         {
           "original": {
-            "x": 208,
-            "y": 620
+            "x": 283,
+            "y": 670
           },
-          "x": 208,
-          "y": 620
+          "x": 283,
+          "y": 670
         }
       ],
       "source": "shape_6549",
@@ -477,23 +480,23 @@
       "waypoints": [
         {
           "original": {
-            "x": 554,
-            "y": 645
+            "x": 629,
+            "y": 695
           },
-          "x": 554,
-          "y": 645
+          "x": 629,
+          "y": 695
         },
         {
-          "x": 435,
-          "y": 645
+          "x": 510,
+          "y": 695
         },
         {
           "original": {
-            "x": 368,
-            "y": 504
+            "x": 443,
+            "y": 554
           },
-          "x": 368,
-          "y": 504
+          "x": 443,
+          "y": 554
         }
       ],
       "source": "shape_0649",
@@ -511,19 +514,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 374,
-            "y": 443
+            "x": 449,
+            "y": 493
           },
-          "x": 374,
-          "y": 443
+          "x": 449,
+          "y": 493
         },
         {
           "original": {
-            "x": 523,
-            "y": 360
+            "x": 598,
+            "y": 410
           },
-          "x": 523,
-          "y": 360
+          "x": 598,
+          "y": 410
         }
       ],
       "source": "shape_6549",
@@ -542,19 +545,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 561,
-            "y": 290
+            "x": 636,
+            "y": 340
           },
-          "x": 561,
-          "y": 290
+          "x": 636,
+          "y": 340
         },
         {
           "original": {
-            "x": 561,
-            "y": 204
+            "x": 636,
+            "y": 254
           },
-          "x": 561,
-          "y": 204
+          "x": 636,
+          "y": 254
         }
       ],
       "source": "shape_8945",
@@ -572,19 +575,19 @@
       "waypoints": [
         {
           "original": {
-            "x": 308,
-            "y": 625
+            "x": 383,
+            "y": 675
           },
-          "x": 308,
-          "y": 625
+          "x": 383,
+          "y": 675
         },
         {
           "original": {
-            "x": 342,
-            "y": 509
+            "x": 417,
+            "y": 559
           },
-          "x": 342,
-          "y": 509
+          "x": 417,
+          "y": 559
         }
       ],
       "source": "shape_5742",
@@ -597,8 +600,8 @@
       "type": "domainStory:group",
       "name": "Kartenverkauf",
       "id": "shape_3469",
-      "x": 153,
-      "y": 234,
+      "x": 228,
+      "y": 284,
       "height": 174,
       "width": 212,
       "pickedColor": "black",
@@ -610,8 +613,8 @@
       "type": "domainStory:group",
       "name": "Filmvorführung",
       "id": "shape_3194",
-      "x": 150,
-      "y": 518,
+      "x": 225,
+      "y": 568,
       "height": 260,
       "width": 215,
       "pickedColor": "black",
@@ -623,8 +626,8 @@
       "type": "domainStory:group",
       "name": "Snackverkauf",
       "id": "shape_8674",
-      "x": 425,
-      "y": 228,
+      "x": 500,
+      "y": 278,
       "height": 191,
       "width": 306,
       "pickedColor": "black",
@@ -636,8 +639,8 @@
       "type": "domainStory:group",
       "name": "Einlasskontrolle",
       "id": "shape_2647",
-      "x": 417,
-      "y": 480,
+      "x": 492,
+      "y": 530,
       "height": 298,
       "width": 328,
       "pickedColor": "black",
@@ -649,7 +652,7 @@
       "info": ""
     },
     {
-      "version": "2.0.1"
+      "version": "2.1.0"
     }
   ]
 }
